@@ -1,7 +1,7 @@
 osu file format v14
 
 [General]
-AudioFilename: 失理論後_x2.mp3
+AudioFilename: audio_x2.mp3
 AudioLeadIn: 0
 PreviewTime: 42396
 Countdown: 0
@@ -22,10 +22,10 @@ TimelineZoom: 2.20004
 [Metadata]
 Title:Shitsurirongo
 TitleUnicode:失理論後
-Artist:櫻優
+Artist:Sakurayuu
 ArtistUnicode:櫻優
 Creator:mamekina
-Version:Normal（x2）
+Version:Normalx2
 Source:
 Tags:shitsurirongo mania 4k 失理論後 櫻優 mamekina 2x
 BeatmapID:5943412
@@ -41,7 +41,7 @@ SliderTickRate:1
 
 [Events]
 //Background and Video events
-0,0,"サムネイル.png",0,0
+0,0,"bg.png",0,0
 //Break Periods
 //Storyboard Layer 0 (Background)
 //Storyboard Layer 1 (Fail)
